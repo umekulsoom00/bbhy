@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+    background-color: #2E2E2E;
+}
+#txt1{
+    color: #F76B4A;
+
+}
+#side{
+    background-color: #440a3f;
+    color: #e7dc00;
+}
+#txt{
+    color: #e7dc00;
+}
+#btn1{
+    color: aliceblue;
+    background-color: #F76B4A;
+    padding-left: 120px;
+
+
+
+}
+#headImage{
+    padding-top: 60px;
+  padding-left: 30px;
+}
+#color{
+        background-color: #F76B4A;
+}
+.editProfile{
+    text-decoration: none;
+    color: white;
+}
+.del{
+    height: 12px;
+    width: 20px;
+}
